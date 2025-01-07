@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stknslyu/stknslyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 Technologies
+---
+<img src="https://www.svgrepo.com/show/448236/linux.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" width="60" height="60" /> 
+<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="60" height="60" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconnectoricons-prod.azureedge.net%2Freleases%2Fv1.0.1543%2F1.0.1543.2638%2Fredmine%2Ficon.png&f=1&nofb=1&ipt=344790fa5de21df356c01e0d80c26f71dc822704d5ad3961aeb27640a05cb907&ipo=images" width="60" height="60" /> <img src="https://www.svgrepo.com/show/331339/clickup.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/448228/grafana.svg" width="60" height="60" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcongdonglinux.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fzabbix-logo.png&f=1&nofb=1&ipt=b6849f46614535624aee198b0d5af0b8046c82d2fbe9f82f30e86fc31e81eb50&ipo=images" width="60" height="60" /> <img src="https://www.svgrepo.com/show/448222/figma.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/448266/aws.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/448221/docker.svg" width="60" height="60" /> <img src="https://www.svgrepo.com/show/353935/jira.svg" width="50" height="50" /> <img src="https://www.svgrepo.com/show/373525/confluence.svg" width="50" height="50" /> <img src="https://www.svgrepo.com/show/439233/mysql.svg" width="55" height="55" /> <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="55" height="55" />
